@@ -44,3 +44,6 @@ src="https://img.shields.io/github/followers/rudrakshpathak?logo=github&style=fo
 <a href="http://www.github.com/rudrakshpathak"><img src="https://github-readme-stats.vercel.app/api?username=rudrakshpathak&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rudrakshpathak's GitHub stats" /></a>
 
 <a href="https://github.com/rudrakshpathak" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrakshpathak&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+Want to setup profile similar to this, try `profileme.dev` or visit this link to get the setup details -
+http://blog.rudrakshpathak.com/update-github-profile-take-the-introduction-to-next-level/
