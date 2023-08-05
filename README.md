@@ -8,7 +8,6 @@ Solutions Architect, Technical Lead, open-source contributor, efficient and disc
 
 * 🌍  Delhi, India
 * 🖥️  Portfolio [https://rudrakshpathak.com](http://rudrakshpathak.com)
-* ✉️  Connect with me at [connect@rudrakshpathak.com](mailto:connect@rudrakshpathak.com)
 
 <a href="https://www.twitter.com/rudrapathak" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/rudrapathak?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
